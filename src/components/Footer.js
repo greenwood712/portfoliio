@@ -18,7 +18,7 @@ function Footer() {
           <div className="col-sm-5 social">
             <ul>
               <li>
-                <a href="https://github.com/greenwood712" target="_blank" rel="noreferrer">
+                <a href="https://github.com/greenwood0712" target="_blank" rel="noreferrer">
                   <i className="fa fa-github" aria-hidden="true"></i>
                 </a>
               </li>
