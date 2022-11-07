@@ -14,6 +14,7 @@ function Skill() {
         <li>Gatsby</li>
         <li>Vue.js</li>
         <li>Node.js</li>
+        <li>Ruby on Rails</li>
         <li>Django</li>
         <li>Flask</li>
         <li>Laravel</li>
@@ -22,18 +23,15 @@ function Skill() {
         <li>HTML 5</li>
         <li>CSS 3</li>
         <li>Tailwind CSS</li>
-        <li>SCSS</li>
+        <li>Bootstrap</li>
         <li>MongoDB</li>
         <li>PostgreSQL</li>
         <li>Sqlite</li>
         <li>MySQL</li>
-        <li>AWS</li>
-        <li>AWS lambda</li>
-        <li>Twilio API</li>
-        <li>Stripe API</li>
+        <li>Amazon Web Services</li>
+        <li>Twilio</li>
+        <li>Stripe</li>
         <li>Shopify</li>
-        <li>Magento</li>
-        <li>Saleor</li>
       </ul>
     </div>
   )

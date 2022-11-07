@@ -22,8 +22,7 @@ function Project() {
                 bikes and production quality light and sound systems.<br />
                 <span
                   >Skills: React, Node, TailwindCSS, Stripe API, Google Ads, AWS
-                  S3</span
-                >
+                  S3</span>
               </p>
               <a href="https://bodhiandride.com.au/">View Project</a>
             </div>
@@ -44,8 +43,7 @@ function Project() {
                 try those, too, in the comfort of your home.<br />
                 <span
                   >Skills: NextJS, Laravel, MUI, ElasticSearch, GeoAPI, Google
-                  Maps, TwilioAPI, SQL</span
-                >
+                  Maps, TwilioAPI, SQL</span>
               </p>
               <a href="https://www.formanandfield.com">View Project</a>
             </div>
@@ -66,8 +64,7 @@ function Project() {
                 Smells and Rose Inc.<br />
                 <span
                   >Skills: Salesforce, React/Redux, Strapi, MongoDB,
-                  Paypal</span
-                >
+                  Paypal</span>
               </p>
               <a href="https://www.spacenk.com/uk/home">View Project</a>
             </div>
@@ -85,12 +82,29 @@ function Project() {
                 more. <br />The best and easiest way to book your perfect
                 getaway! Best deals. Instant confirmations. Secure bookings.
                 Best price guaranteed!<br />
-                <span
-                  >Skills: Python, Django, VueJS, Bootstrap, NGINIX,
-                  PostgreSQL</span
-                >
+                <span>Skills: Python, Django, VueJS, Bootstrap, NGINIX,
+                  PostgreSQL</span>
               </p>
               <a href=" https://www.afristay.com/">View Project</a>
+            </div>
+          </div>
+
+          <div class="project shadow-large">
+            <a href="https://www.callcarpenter.com/" class="project-image">
+              <img src="images/ruby.png" />
+            </a>
+            <div class="project-info">
+              <h3>"Carpenter Realtors"</h3>
+              <p>
+                Selling your home? Carpenter Realtors is focused not only on
+                finding a buyer for your home, but finding the right buyer!<br />
+                Carpenter Realtors has Indiana's best local real estate mobile
+                apps. We've seen how you search for homes for sale in your car,
+                in the neighborhoods you like. Our apps are device-specific and
+                it fits perfectly with Carpenter's Mobile Mission.<br />
+                <span>Skills: Ruby on Rails, React, MongoDB, AWS</span>
+              </p>
+              <a href="https://www.callcarpenter.com/">View Project</a>
             </div>
           </div>
 
