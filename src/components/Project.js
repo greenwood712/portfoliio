@@ -91,7 +91,7 @@ function Project() {
 
           <div class="project shadow-large">
             <a href="https://www.callcarpenter.com/" class="project-image">
-              <img src="images/ruby.png" />
+              <img src="images/ruby.png" alt='ruby-project' />
             </a>
             <div class="project-info">
               <h3>"Carpenter Realtors"</h3>
