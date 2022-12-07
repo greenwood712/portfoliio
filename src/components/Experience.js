@@ -28,7 +28,7 @@ function Experience() {
           </ul>
         </div>
 
-        <div data-date="August 2019 – April 2022">
+        <div data-date="August 2019 – August 2022">
           <h3>C&F</h3>
           <h4>Full-stack Developer</h4>
           <ul>
