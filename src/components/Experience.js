@@ -5,7 +5,7 @@ function Experience() {
     <div id="experience" className="background-alt">
       <h2 className="heading">Experience</h2>
       <div id="experience-timeline">
-        <div data-date="April 2022 – Present">
+        <div data-date="August 2022 – Present">
           <h3>Self-Employed</h3>
           <h4>Full-stack Developer</h4>
           <ul>
