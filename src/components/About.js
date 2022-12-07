@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 function About() {
   return (
@@ -11,24 +11,23 @@ function About() {
           <div className="col-md-8">
             <p>
               Skilled and motivated full-stack developer with 6+ years of
-              experience.<br />
+              experience.
+              <br />
               Created 40+ websites using several programming languages and
-              frameworks. Advanced in many languages and frameworks such as
-              JavaScript/React/Next/Vue and Python/Django/Flask.<br />
-              Have a deep knowledge of many high-level programming languages and
-              related frameworks (I mostly use MERN and Python/Django stack, but
-              seek overall skill vs specific expertise).<br />
+              frameworks. Advan ced in many languages and frameworks such as
+              JavaScript/Typescript, React/Next/Vue, and Ruby on Rails.
+              <br />
               Built 10+ E-Commerce websites using Shopify, Magento, and Headless
-              CMS (Strapi,Contentful).<br />
+              CMS (Strapi, Contentful).
+              <br />
               Own the development of product features end-to-end including
-              scoping, architecting, coding, testing, and rolling out
-              features.<br />
+              scoping, architectin g, coding, testing, and rolling out features
             </p>
           </div>
         </div>
       </div>
     </div>
-  )
+  );
 }
 
-export default About
+export default About;
